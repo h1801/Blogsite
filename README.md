@@ -65,7 +65,7 @@ nodemon app
     <strong>The highlighted blog will be shown.</strong>
     &nbsp;
     <img width="500" alt="image"
-        src="https://github.com/h1801/Blogsite/blob/main/public/Contents.png" />
+        src="https://github.com/h1801/Blogsite/blob/main/public/Deletion.png" />
     <br />
     </div>
 </li>
@@ -77,9 +77,10 @@ nodemon app
     <strong>After deletion it will redirect to the home page.</strong>
     &nbsp;
     <img width="500" alt="image"
-        src="https://github.com/h1801/Blogsite/blob/main/public/Deletion.png" />
+        src="https://github.com/h1801/Blogsite/blob/main/public/Contents.png" />
     <br />
     </div>
 </li>
 
 </ul>
+
