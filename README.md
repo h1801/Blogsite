@@ -58,4 +58,28 @@ nodemon app
     </div>
 </li>
 
+<li>
+    <h2><strong>⭐ Viewing of a blog</strong></h2>
+    <div>
+    <br />
+    <strong>The highlighted blog will be shown.</strong>
+    &nbsp;
+    <img width="500" alt="image"
+        src="https://github.com/h1801/Blogsite/blob/main/public/Contents.png" />
+    <br />
+    </div>
+</li>
+
+<li>
+    <h2><strong>⭐ Deletion of a Blog</strong></h2>
+    <div>
+    <br />
+    <strong>After deletion it will redirect to the home page.</strong>
+    &nbsp;
+    <img width="500" alt="image"
+        src="https://github.com/h1801/Blogsite/blob/main/public/Deletion.png" />
+    <br />
+    </div>
+</li>
+
 </ul>
